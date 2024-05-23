@@ -1,7 +1,7 @@
 # fire-protection
 fire awareness portal project
 
-#Hi there 
+#Hi there!
 
 #create an html file and css file in file manager 
 -firstly create new foalder and name it as fire wbsite 
